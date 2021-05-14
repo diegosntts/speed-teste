@@ -1,3 +1,3 @@
 # speed-teste
-Installation:
-pip install speedtest-cli
+# Teste de velocidade de internet feio em python
+Installation: pip install speedtest-cli
