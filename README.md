@@ -1,4 +1,3 @@
-# speed-teste
 # Teste de velocidade de internet em python
 
 Adicionar:
