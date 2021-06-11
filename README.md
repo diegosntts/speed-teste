@@ -2,6 +2,4 @@
 
 Adicionar:
 
-interface
-
 Execução: pip install speedtest-cli
