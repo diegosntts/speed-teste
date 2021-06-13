@@ -1,6 +1,6 @@
 # Teste de velocidade de internet em python
 
-Dsenvolvimento
+Desenvolvimento
 
 Execução: 
 
