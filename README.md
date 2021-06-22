@@ -2,4 +2,6 @@
 
 Execução: 
 
-pip install speedtest-cli
+pip install speedtest-cli 
+
+[Terminal]
